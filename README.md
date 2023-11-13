@@ -1,1 +1,1 @@
-# MMAI-Projects
+# Artificial Intelligence Projects
